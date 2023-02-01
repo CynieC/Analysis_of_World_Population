@@ -3,7 +3,7 @@ In this project, I analyze the world's population data  from a dataset retrieved
 
 
 
-Some of the questions that will be answered from teh dataset include:
-a) What is the highst and lowest population sizes in the year 2022?
+Some of the questions that will be answered from the dataset include:
+a) What is the highest and lowest population sizes in the year 2022?
 b) What countries have a total population that is greater than the average population in 2020?
 c) What countries were the most densely populated in 2022?
